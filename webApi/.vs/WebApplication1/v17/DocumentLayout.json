@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2309013\\Desktop\\\u5F8C\u7AEF\u88FD\u5716\\\u6E2C\u8A66\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{412ACDD9-8368-415B-B786-DCBFFA78E963}|WebApplication1\\WebApplication1.csproj|c:\\users\\2309013\\desktop\\\u5F8C\u7AEF\u88FD\u5716\\\u6E2C\u8A66\\webapplication1\\controllers\\pythoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412ACDD9-8368-415B-B786-DCBFFA78E963}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\pythoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB39F193-E6D6-4644-ADD6-42296907FD40}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\2309013\\desktop\\\u5F8C\u7AEF\u88FD\u5716\\\u6E2C\u8A66\\classlibrary1\\models\\pythonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB39F193-E6D6-4644-ADD6-42296907FD40}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\models\\pythonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB39F193-E6D6-4644-ADD6-42296907FD40}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\2309013\\desktop\\\u5F8C\u7AEF\u88FD\u5716\\\u6E2C\u8A66\\classlibrary1\\models\\alertdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB39F193-E6D6-4644-ADD6-42296907FD40}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\models\\alertdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB39F193-E6D6-4644-ADD6-42296907FD40}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\2309013\\desktop\\\u5F8C\u7AEF\u88FD\u5716\\\u6E2C\u8A66\\classlibrary1\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB39F193-E6D6-4644-ADD6-42296907FD40}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412ACDD9-8368-415B-B786-DCBFFA78E963}|WebApplication1\\WebApplication1.csproj|c:\\users\\2309013\\desktop\\\u5F8C\u7AEF\u88FD\u5716\\\u6E2C\u8A66\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412ACDD9-8368-415B-B786-DCBFFA78E963}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PythonController.cs",
+              "DocumentMoniker": "C:\\Users\\2309013\\Desktop\\\u5F8C\u7AEF\u88FD\u5716\\\u6E2C\u8A66\\WebApplication1\\Controllers\\PythonController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PythonController.cs",
+              "ToolTip": "C:\\Users\\2309013\\Desktop\\\u5F8C\u7AEF\u88FD\u5716\\\u6E2C\u8A66\\WebApplication1\\Controllers\\PythonController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\PythonController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAQwFIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T08:56:39.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\2309013\\Desktop\\\u5F8C\u7AEF\u88FD\u5716\\\u6E2C\u8A66\\ClassLibrary1\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\2309013\\Desktop\\\u5F8C\u7AEF\u88FD\u5716\\\u6E2C\u8A66\\ClassLibrary1\\AppDbContext.cs",
+              "RelativeToolTip": "ClassLibrary1\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:59:57.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlertData.cs",
+              "DocumentMoniker": "C:\\Users\\2309013\\Desktop\\\u5F8C\u7AEF\u88FD\u5716\\\u6E2C\u8A66\\ClassLibrary1\\Models\\AlertData.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\AlertData.cs",
+              "ToolTip": "C:\\Users\\2309013\\Desktop\\\u5F8C\u7AEF\u88FD\u5716\\\u6E2C\u8A66\\ClassLibrary1\\Models\\AlertData.cs",
+              "RelativeToolTip": "ClassLibrary1\\Models\\AlertData.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:21:52.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PythonRequest.cs",
+              "DocumentMoniker": "C:\\Users\\2309013\\Desktop\\\u5F8C\u7AEF\u88FD\u5716\\\u6E2C\u8A66\\ClassLibrary1\\Models\\PythonRequest.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\PythonRequest.cs",
+              "ToolTip": "C:\\Users\\2309013\\Desktop\\\u5F8C\u7AEF\u88FD\u5716\\\u6E2C\u8A66\\ClassLibrary1\\Models\\PythonRequest.cs",
+              "RelativeToolTip": "ClassLibrary1\\Models\\PythonRequest.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:40:57.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2309013\\Desktop\\\u5F8C\u7AEF\u88FD\u5716\\\u6E2C\u8A66\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\2309013\\Desktop\\\u5F8C\u7AEF\u88FD\u5716\\\u6E2C\u8A66\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T08:53:58.023Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
